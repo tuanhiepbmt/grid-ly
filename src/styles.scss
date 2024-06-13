@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~ag-grid-community/styles/ag-grid.css";
+@import "~ag-grid-community/styles/ag-theme-quartz.css";
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.ag-cell {
+  padding: 0 5px 0 5px;
+}
+
+.ag-icon {
+  font-size: 10px;
+}
+
+.ag-group-contracted {
+  margin-right: 0 !important;
+}
